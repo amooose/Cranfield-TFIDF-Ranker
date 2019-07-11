@@ -11,7 +11,7 @@ import java.util.*;
 
 public class tfidfRanker {
 
-    static int CRAN_SIZE = 1;
+    static int CRAN_SIZE = 1401;
     static final int docWeightVectorSize = 750;
     static final int indexTableTABLESIZE = 90449;
 
