@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.*;
 
 
-public class tdfprogram {
+public class tfidfRanker {
 
     static int CRAN_SIZE = 1;
     static final int docWeightVectorSize = 750;
