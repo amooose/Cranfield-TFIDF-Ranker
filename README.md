@@ -1,5 +1,6 @@
 # Cranfield-TFIDF-Ranker
 A program to search through the Cranfield documents and rank them accordingly based on your search query.
+Uses a Vector Space Model with TF-IDF weighting.
 
 # Usage
 1. run jar with the command 
